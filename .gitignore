@@ -1,0 +1,19 @@
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE ve Editör ayarları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Eğer sanal ortam kullanıyorsan
+venv/
+env/
+.env
